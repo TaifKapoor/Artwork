@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { ApiResponse } from '../types/artwork';
+import type { ApiResponse } from '../types/artwork';
 
 const API_BASE_URL = 'https://api.artic.edu/api/v1/artworks';
 
